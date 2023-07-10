@@ -4,6 +4,8 @@
 
 Special thanks for reference [GOV.UK](https://github.com/UKHomeOffice/keycloak-theme-govuk).
 
+![](assets/keycloak-theme.png)
+
 ## Screenshots
 
 ### Login Page
